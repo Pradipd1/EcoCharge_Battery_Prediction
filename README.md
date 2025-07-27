@@ -22,6 +22,8 @@ streamlit run app/dashboard.py
 ```
 ## 🔍 Demo
 
+# Deployed link:🌐 https://pradipd1echocharge.streamlit.app/
+
 ### 📈 Dashboard View
 ![Dashboard](app/screenshots/dashboard1.png)
 
