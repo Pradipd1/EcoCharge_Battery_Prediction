@@ -1,0 +1,6 @@
+battery_percentage,screen_on,cpu_usage,ram_usage,network,gps,remaining_battery_time
+85,1,30,60,1,0,240
+75,1,40,65,1,0,180
+65,0,20,50,0,0,300
+95,0,10,40,1,1,360
+55,1,50,70,1,1,120
