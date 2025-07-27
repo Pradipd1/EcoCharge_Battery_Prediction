@@ -7,6 +7,10 @@ Predicts remaining battery time and suggests optimizations using ML on smartphon
 ✅ Regression models (Linear Regression, Random Forest, XGBoost)  
 ✅ Streamlit dashboard for displaying battery predictions  
 ✅ Clean, structured code for learning and showcasing on GitHub
+✅ Upload your own CSV sensor dataset  
+✅ Predict remaining battery life using a trained model  
+✅ Visualize predictions using a live line chart  
+
 
 ## How to Run
 1. Clone this repository.
