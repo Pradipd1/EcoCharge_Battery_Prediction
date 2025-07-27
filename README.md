@@ -31,4 +31,4 @@ This project is open for learning and portfolio building.
 
 ---
 
-**Made with ❤️ for strengthening ML skills and portfolio.**
+
