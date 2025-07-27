@@ -37,7 +37,8 @@ streamlit run app/dashboard.py
 - (Optional) Android/Kotlin for data collection
 
 ## License
-This project is open for learning and portfolio building.
+
+MIT
 
 ---
 
