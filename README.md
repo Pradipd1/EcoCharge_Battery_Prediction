@@ -20,12 +20,13 @@ Predicts remaining battery time and suggests optimizations using ML on smartphon
 ```
 streamlit run app/dashboard.py
 ```
-## 📸 Demo
+## 🔍 Demo
 
-Here’s how the dashboard looks:
+### 📈 Dashboard View
+![Dashboard](app/screenshots/dashboard1.png)
 
-![Dashboard Demo](app/images/dashboard_demo1.png)
-![Battery Prediction Chart](app/images/dashboard_demo2.png)
+### 📊 Prediction Chart
+![Prediction Chart](app/screenshots/prediction_chart.png)
 
 
 ## Tech Stack
