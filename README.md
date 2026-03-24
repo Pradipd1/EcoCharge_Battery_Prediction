@@ -37,8 +37,7 @@ streamlit run app/dashboard.py
 - (Optional) Android/Kotlin for data collection
 
 ## License
-
-MIT
+VIT
 
 ---
 
