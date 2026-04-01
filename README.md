@@ -1,6 +1,6 @@
 # EcoCharge: Battery Usage Prediction with Machine Learning 🚀🔋
 
-Predicts remaining battery time and suggests optimizations using ML on smartphone data.
+Predicts remaining battery time and suggests optimizations using ML on smartphone data. 
 
 ## Features
 ✅ Data preprocessing and cleaning  
